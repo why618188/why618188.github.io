@@ -143,5 +143,8 @@ span.highlight {
 
 #dollyzoom {
   border-radius: 10px !important;
-  /* object-fit: cover; */
+}
+
+.rounded-image {
+  border-radius: 10px !important;
 }
